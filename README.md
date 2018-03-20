@@ -1,4 +1,10 @@
-#jsonresume-theme-classy
+# jsonresume-theme-classy
+
+It is fork includes fix pdf export bug(font error)
+
+---
+
+> original
 
 An uber-classy theme for JSONResume.
 
